@@ -1,0 +1,1 @@
+ptr = (castType*)calloc(n, size);
